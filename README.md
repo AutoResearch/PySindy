@@ -1,1 +1,1 @@
-# PySindyWrapper
+# PySindy
